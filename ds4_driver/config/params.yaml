@@ -7,7 +7,7 @@ ds4_driver:
     # Whether to use hidraw or raw bluetooth mode. See docs in ds4drv for the
     # difference.
     # Options: hidraw, bluetooth
-    # backend: hidraw
+    backend: hidraw
 
     # Whether to use standard ROS messages or messages defined in ds4_driver.
     # If true, will publish sensor_msgs/{Joy,BatteryState,Imu}, ds4_driver/Report,

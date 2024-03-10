@@ -13,10 +13,10 @@ ds4_twist:
     scales:
       linear:
         # Default scale is 1.0
-        # x: 1.0
-        y: 0.5
+        x: 2.0
+        y: 2.0
         z: 2.0
       angular:
-        x: 0.1
-        y: 0.1
-        z: 0.5
+        x: 2.0
+        y: 2.0
+        z: 2.0
